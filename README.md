@@ -9,6 +9,18 @@
 
 ---
 
+## ရေမွေး Review Studio (အားလုံး တစ်နေရာတည်း)
+
+**https://claude.ai/artifact/QcBLs9HEwrqVyxHWMxPfiD** — `studio/perfume-studio.html`
+
+- ရေမွေးနာမည် ရိုက် → **Brief ထုတ်** → notes၊ မြန်မာရာသီ၊ နှိုင်းယှဉ်ချက်၊ အစစ်/အတု၊ Reel script၊ FB caption၊ FAQ အကုန် ထွက်လာပြီး Library ထဲ သိမ်းထားမယ်
+- **ကိုယ်တိုင်စမ်း** tab မှာ ရလဒ်ဖြည့် → script/caption ကို ကိုယ့်ရလဒ်နဲ့ ပြန်ရေးခိုင်း
+- Caption ၃ မျိုး၊ AI image prompt၊ Markdown export
+- အခြေအနေ (Research → စမ်းပြီး → ရိုက်ပြီး → တင်ပြီး) မှတ်ထားလို့ရ
+- ⚠️ Studio ထဲက AI က web မရှာနိုင်ပါ ("AI draft")။ Web research နဲ့ source link ပါတဲ့ brief လိုရင် Claude Code ကို "Studio ထဲက ___ ကို web research လုပ်ပြီး update လုပ်ပေး" လို့ ပြောပါ ("Web research")
+
+---
+
 ## Folder တွေ
 
 | Folder / File | ဘာအတွက်လဲ |
